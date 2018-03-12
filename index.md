@@ -5,7 +5,7 @@
 
 # Docencia
 
-Este semestre estoy dictando las siguientes dos asignaturas en el Depto. de Física de la UdeC:
+Este semestre estoy dictando las siguientes asignaturas en el Depto. de Física de la UdeC:
 
-- "Computación Científica". Una asignatura básica de para estudiantes de primer semestre de las carreras de Ciencias Físicas, Astronomía y Geofísica. [Blog](https://cc-cfm.blogspot.com) [Repo](https://github.com/CC).
+- "Computación Científica". Una asignatura básica para estudiantes de primer semestre de las carreras de Ciencias Físicas, Astronomía y Geofísica. [[Blog]](https://cc-cfm.blogspot.com) [[Repo]](https://github.com/CC).
 - "Tópicos en Relatividad General". Asignatura avanzada donde se discuten predicciones de la teoría General de la Relatividad de Einstein, con énfasis en las predicciones sobre _ondas gravitacionales_. [Blog](https://gr-udec.blogspot.com) [Repo](https://github.com/RG).
