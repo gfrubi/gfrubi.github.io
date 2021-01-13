@@ -5,16 +5,20 @@
 
 # Docencia
 
-Este semestre estaré dictando las siguientes asignaturas en el Depto. de Física de la UdeC:
+El primer semestre del 2021 estaré dictando las siguientes asignaturas en el Depto. de Física de la UdeC:
 
-- "*Computación Científica*". Una asignatura básica para estudiantes de primer semestre de las carreras de Ciencias Físicas, Astronomía y Geofísica. [[Blog]](https://cc-cfm.blogspot.com) [[Repo]](https://github.com/gfrubi/CC).
-- "*Tópicos en Relatividad General*". Asignatura avanzada donde se discuten predicciones de la teoría General de la Relatividad de Einstein, con énfasis en las predicciones sobre _ondas gravitacionales_. [[Blog]](https://rg-udec.blogspot.com) [[Repo]](https://github.com/gfrubi/RG).
-- "*Física Matemática II*". Asignatura de nivel intermedio donde se discuten herramientas matemáticas para la solución de problemas en Física (Integrales de Fourier, Método de Separación de Variables, funciones especiales, etc.) [[Blog]](https://fm2-udec.blogspot.com/) [[Repo]](https://github.com/gfrubi/FM2).
+- "*Computación Científica*". Una asignatura básica para estudiantes de primer semestre de las carreras de Ciencias Físicas, Astronomía y Geofísica. [[Repo]](https://github.com/gfrubi/CC).
+- "*Tópicos en Relatividad General*". Asignatura avanzada donde se discuten predicciones de la teoría General de la Relatividad de Einstein, con énfasis en las predicciones sobre _ondas gravitacionales_.  [[Repo]](https://github.com/gfrubi/RG).
+- "*Electrodinámica II*". Asignatura de nivel intermedio donde se discuten discuten las soluciones radiativas de las ecuaciones de Maxwell y los principios de la teoría de Relatividad Especial [[Repo]](https://github.com/gfrubi/electrodinamica).
 
-El segundo semestre del 2018 dicté:
+[//]: # - "*Física Matemática II*". Asignatura de nivel intermedio donde se discuten herramientas matemáticas para la solución de problemas en Física (Integrales de Fourier, Método de Separación de Variables, funciones especiales, etc.) [[Blog]](https://fm2-udec.blogspot.com/) [[Repo]](https://github.com/gfrubi/FM2).
 
-- "*Teoría General de la Relatividad*". Una asignatura que introduce las ideas y consecuencias básicas de la teoría gravitacional de Einstein. [[Blog]](https://rg-udec.blogspot.com/) [[Repo]](https://github.com/gfrubi/RG).
+El segundo semestre del 2020 dicté:
 
-- "*Laboratorio I*". Asignatura para estudiantes de cuarto semestre de las carreras de Ciencias Físicas en la UdeC. Se discuten los conceptos y métodos básicos útiles en el análisis de datos experimentales. Usamos Python para graficar y analizar los datos experimentales y simulados. [[Blog]](https://lab1udec.blogspot.com/) [[Repo]](https://github.com/gfrubi/Lab).
+- "*Electrodinámica I*". Asignatura teórica de nivel intermedio que presenta los fundamentos de la teorı́a
+electrodinámica clásica. [[Repo]](https://github.com/gfrubi/electrodinamica).
 
+- "*Laboratorio I*". Asignatura para estudiantes de cuarto semestre de las carreras de Ciencias Físicas en la UdeC. Se discuten los conceptos y métodos básicos útiles en el análisis de datos experimentales. Usamos Python para graficar y analizar los datos experimentales y simulados. [[Repo]](https://github.com/gfrubi/Lab).
+
+- "*Teoría General de la Relatividad*". Una asignatura que introduce las ideas y consecuencias básicas de la teoría gravitacional de Einstein. [[Repo]](https://github.com/gfrubi/RG).
 
