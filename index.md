@@ -8,10 +8,10 @@
 El primer semestre del 2021 estaré dictando las siguientes asignaturas en el Depto. de Física de la UdeC:
 
 - "*Computación Científica*". Una asignatura básica para estudiantes de primer semestre de las carreras de Ciencias Físicas, Astronomía y Geofísica. [[Repo]](https://github.com/gfrubi/CC).
-- "*Tópicos en Relatividad General*". Asignatura avanzada donde se discuten predicciones de la teoría General de la Relatividad de Einstein, con énfasis en las predicciones sobre _ondas gravitacionales_.  [[Repo]](https://github.com/gfrubi/RG).
-- "*Electrodinámica II*". Asignatura de nivel intermedio donde se discuten discuten las soluciones radiativas de las ecuaciones de Maxwell y los principios de la teoría de Relatividad Especial [[Repo]](https://github.com/gfrubi/electrodinamica).
 
-[//]: # - "*Física Matemática II*". Asignatura de nivel intermedio donde se discuten herramientas matemáticas para la solución de problemas en Física (Integrales de Fourier, Método de Separación de Variables, funciones especiales, etc.) [[Blog]](https://fm2-udec.blogspot.com/) [[Repo]](https://github.com/gfrubi/FM2).
+- "*Tópicos en Relatividad General*". Asignatura avanzada donde se discuten predicciones de la teoría General de la Relatividad de Einstein, con énfasis en las predicciones sobre _ondas gravitacionales_.  [[Repo]](https://github.com/gfrubi/RG).
+
+- "*Electrodinámica II*". Asignatura de nivel intermedio donde se discuten discuten las soluciones radiativas de las ecuaciones de Maxwell y los principios de la teoría de Relatividad Especial [[Repo]](https://github.com/gfrubi/electrodinamica).
 
 El segundo semestre del 2020 dicté:
 
