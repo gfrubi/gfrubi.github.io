@@ -1,6 +1,6 @@
 # @gfrubi
 
-- Existo como @gfrubi en [Twitter](https://twitter.com/gfrubi) (ciencia y sociedad) e [Instagram](https://instagram.com/gfrubi) (básicamente fotos de comida y nerditudes varias). Disponible también en [Telegram](https://t.me/gfrubi).
+- Existo como [@gfrubi@mastodon.social](https://mastodon.social/@gfrubi) en [Mastodon](https://joinmastodon.org/) (ciencia, software, sociedad, comida y nerditudes varias). Disponible también en [Telegram](https://t.me/gfrubi).
 - En mis repositorios en [GitHub](https://github.com/gfrubi) podrán encontrar códigos, apuntes y otras hierbas que he ido desarrollando y/o copiando.
 
 # Docencia
