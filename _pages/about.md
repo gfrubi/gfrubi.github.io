@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bienvenido a mi pequeña página!"
+title: "Bienvenid@ a mi pequeña página!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
