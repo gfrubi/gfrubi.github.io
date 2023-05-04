@@ -12,7 +12,7 @@ tags:
 ```
 ![https://gfrubi.github.io](./2023-05-03_21-07.png)
 
-- [**Tikz**](https://github.com/pgf-tikz/pgf): un paquete que permite crear diagramas/esquemas de diverso tipo. Manual disponible [aquíLinks to an external site.](https://pgf-tikz.github.io/pgf/pgfmanual.pdf). Por ejemplo, el código
+- [**Tikz**](https://github.com/pgf-tikz/pgf): un paquete que permite crear diagramas/esquemas de diverso tipo. Manual disponible [aquí](https://pgf-tikz.github.io/pgf/pgfmanual.pdf). Por ejemplo, el código
 ```
 \documentclass[12pt]{article}
 \usepackage{tikz}
