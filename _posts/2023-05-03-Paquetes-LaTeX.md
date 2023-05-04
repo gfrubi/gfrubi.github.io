@@ -10,7 +10,7 @@ tags:
 	  ...
 	  \qrcode[hyperlink, height=5cm]{gfrubi.github.io}
 ```
-![https://gfrubi.github.io](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png)
+![https://gfrubi.github.io](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png|width=100px)
 
 - [**Tikz**](https://github.com/pgf-tikz/pgf): un paquete que permite crear diagramas/esquemas de diverso tipo. Manual disponible [aquí](https://pgf-tikz.github.io/pgf/pgfmanual.pdf). Por ejemplo, el código
 ```
