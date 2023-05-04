@@ -42,8 +42,8 @@ tags:
 \end{document}
 ```
 genera el siguiente diagrama: ![tikz](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_20-30.png)
-		-
-- Puede encontrar muchos ejemplos de diagramas creados con Tikz (y el código correspondiente) en [tikz.net](https://tikz.net/).
+
+Puede encontrar muchos ejemplos de diagramas creados con Tikz (y el código correspondiente) en [tikz.net](https://tikz.net/).
 - El paquete Beamer también permite crear posters para conferencias. Por ejemplo, [aquí](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-university-of-cambridge/mtjqrnmghxsc) hay un ejemplo de un poster en formato horizontal (seleccionar "View Source") para ver el código $\LaTeX$ ![posterH](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/26516.jpeg)
 		-
 - Similarmente un ejemplo de poster en formato vertical está disponible [aquí](https://www.overleaf.com/latex/templates/portrait-beamer-poster-template-jacobs-style/fxfzyznxpghw): ![posterV](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2205.jpeg)
