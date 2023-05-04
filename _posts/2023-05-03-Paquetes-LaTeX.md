@@ -10,7 +10,9 @@ tags:
 	  ...
 	  \qrcode[hyperlink, height=5cm]{gfrubi.github.io}
 ```
-![https://gfrubi.github.io](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png" alt= “gfrubi.github.io” width="100" height="100">
+</p>
 
 - [**Tikz**](https://github.com/pgf-tikz/pgf): un paquete que permite crear diagramas/esquemas de diverso tipo. Manual disponible [aquí](https://pgf-tikz.github.io/pgf/pgfmanual.pdf). Por ejemplo, el código
 ```
@@ -42,7 +44,7 @@ tags:
 \end{document}
 ```
 	  genera el siguiente diagrama: ![2023-05-03_20-30.png](../assets/2023-05-03_20-30_1683161977829_0.png)
-		-
+
 - Puede encontrar muchos ejemplos de diagramas creados con Tikz (y el código correspondiente) en [tikz.net](https://tikz.net/).
 - El paquete Beamer también permite crear posters para conferencias. Por ejemplo, [aquí](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-university-of-cambridge/mtjqrnmghxsc) hay un ejemplo de un poster en formato horizontal (seleccionar "View Source") para ver el código $\LaTeX$ ![26516.jpeg](../assets/26516_1683162039735_0.jpeg)
 		-
