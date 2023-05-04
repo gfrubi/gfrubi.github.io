@@ -73,5 +73,6 @@ Puede encontrar muchos ejemplos de diagramas creados con Tikz (y el código corr
 \end{music}
 ```
 genera el siguiente resultado: 
+
 <img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_20-15.png" width="400">
 - Puede explorar y descubrir otros paquetes en la página de [CTAN](https://ctan.org/pkg)
