@@ -4,14 +4,12 @@ date: 2023-05-03
 tags:
   - software
 ---
-- **qrcode**: un paquete que permite crear códigos QR e insertarlos directamente en un documento $\LaTeX$. Manual disponible [aquí](https://ctan.dcc.uchile.cl/macros/latex/contrib/qrcode/qrcode.pdf). El uso es muy simple, por ejemplo, con el siguiente código se genera e incrusta un link a la página [gfrubi.github.io](https://gfrubi.github.io/):
+- **qrcode**: un paquete que permite crear códigos QR e insertarlos directamente en un documento $\LaTeX$. Manual disponible [aquí](https://ctan.dcc.uchile.cl/macros/latex/contrib/qrcode/qrcode.pdf). El uso es muy simple, por ejemplo, con el siguiente código se genera e incrusta un link a la página [gfrubi.github.io](https://gfrubi.github.io/): <img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png" width="100">
 ```
 	  \usepackage{qrcode}
 	  ...
 	  \qrcode[hyperlink, height=5cm]{gfrubi.github.io}
 ```
-<img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png" width="100">
-
 
 - [**Tikz**](https://github.com/pgf-tikz/pgf): un paquete que permite crear diagramas/esquemas de diverso tipo. Manual disponible [aquí](https://pgf-tikz.github.io/pgf/pgfmanual.pdf). Por ejemplo, el código
 ```
@@ -42,14 +40,17 @@ tags:
 \end{tikzpicture}
 \end{document}
 ```
-genera el siguiente diagrama: 
+  genera el siguiente diagrama: 
+
 <img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_20-30.png" width="300">
 
 Puede encontrar muchos ejemplos de diagramas creados con Tikz (y el código correspondiente) en [tikz.net](https://tikz.net/).
+
 - El paquete Beamer también permite crear posters para conferencias. Por ejemplo, [aquí](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-university-of-cambridge/mtjqrnmghxsc) hay un ejemplo de un poster en formato horizontal (seleccionar "View Source") para ver el código $\LaTeX$ 
 <img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/26516.jpeg" width="300">
-		-
-- Similarmente un ejemplo de poster en formato vertical está disponible [aquí](https://www.overleaf.com/latex/templates/portrait-beamer-poster-template-jacobs-style/fxfzyznxpghw): 
+	
+- Similarmente un ejemplo de poster en formato vertical está disponible ![aquí](https://www.overleaf.com/latex/templates/portrait-beamer-poster-template-jacobs-style/fxfzyznxpghw):
+
 <img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2205.jpeg" width="300">
 
 
