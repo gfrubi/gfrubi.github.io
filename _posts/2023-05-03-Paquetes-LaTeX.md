@@ -12,7 +12,6 @@ tags:
 ```
 ![https://gfrubi.github.io](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png|width=100px)
 
-![img|100x100,50%](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png)
 - [**Tikz**](https://github.com/pgf-tikz/pgf): un paquete que permite crear diagramas/esquemas de diverso tipo. Manual disponible [aquí](https://pgf-tikz.github.io/pgf/pgfmanual.pdf). Por ejemplo, el código
 ```
 \documentclass[12pt]{article}
@@ -42,12 +41,12 @@ tags:
 \end{tikzpicture}
 \end{document}
 ```
-genera el siguiente diagrama: ![tikz](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_20-30.png)
+genera el siguiente diagrama: ![tikz](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_20-30.png|width=300px)
 
 Puede encontrar muchos ejemplos de diagramas creados con Tikz (y el código correspondiente) en [tikz.net](https://tikz.net/).
-- El paquete Beamer también permite crear posters para conferencias. Por ejemplo, [aquí](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-university-of-cambridge/mtjqrnmghxsc) hay un ejemplo de un poster en formato horizontal (seleccionar "View Source") para ver el código $\LaTeX$ ![posterH](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/26516.jpeg)
+- El paquete Beamer también permite crear posters para conferencias. Por ejemplo, [aquí](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-university-of-cambridge/mtjqrnmghxsc) hay un ejemplo de un poster en formato horizontal (seleccionar "View Source") para ver el código $\LaTeX$ ![posterH](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/26516.jpeg|width=300px)
 		-
-- Similarmente un ejemplo de poster en formato vertical está disponible [aquí](https://www.overleaf.com/latex/templates/portrait-beamer-poster-template-jacobs-style/fxfzyznxpghw): ![posterV](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2205.jpeg)
+- Similarmente un ejemplo de poster en formato vertical está disponible [aquí](https://www.overleaf.com/latex/templates/portrait-beamer-poster-template-jacobs-style/fxfzyznxpghw): ![posterV](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2205.jpeg|width=300px)
 
 - [**MusiXTeX**](http://icking-music-archive.org/software/htdocs/): un paquete que permite escribir música en $\LaTeX$. Manual disponible [aquí](https://ctan.dcc.uchile.cl/macros/musixtex/doc/musixdoc.pdf). Por ejemplo, el codigo siguiente:
 ```
@@ -67,5 +66,5 @@ Puede encontrar muchos ejemplos de diagramas creados con Tikz (y el código corr
     \zendextract 
 \end{music}
 ```
-genera el siguiente resultado: ![MusiXTeX](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_20-15.png)
+genera el siguiente resultado: ![MusiXTeX](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_20-15.png|width=300px)
 - Puede explorar y descubrir otros paquetes en la página de [CTAN](https://ctan.org/pkg)
