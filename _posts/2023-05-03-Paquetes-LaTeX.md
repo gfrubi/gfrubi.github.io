@@ -6,13 +6,11 @@ tags:
 ---
 - **qrcode**: un paquete que permite crear códigos QR e insertarlos directamente en un documento $\LaTeX$. Manual disponible [aquí](https://ctan.dcc.uchile.cl/macros/latex/contrib/qrcode/qrcode.pdf). El uso es muy simple, por ejemplo, con el siguiente código se genera e incrusta un link a la página [gfrubi.github.io](https://gfrubi.github.io/):
 ```
-\usepackage{qrcode}
-...
-\qrcode[hyperlink, height=5cm]{gfrubi.github.io}
+	  \usepackage{qrcode}
+	  ...
+	  \qrcode[hyperlink, height=5cm]{gfrubi.github.io}
 ```
-
-![2023-05-03_21-07.png](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png){:height 161, :width 104}
-```
+![QRcode](https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/2023-05-03_21-07.png){:height 161, :width 104}
 
 - [**Tikz**](https://github.com/pgf-tikz/pgf): un paquete que permite crear diagramas/esquemas de diverso tipo. Manual disponible [aquí](https://pgf-tikz.github.io/pgf/pgfmanual.pdf). Por ejemplo, el código
 ```
