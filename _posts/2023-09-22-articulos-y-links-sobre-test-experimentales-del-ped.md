@@ -8,14 +8,16 @@ tags:
   El Principio de Equivalencia Débil (PED) expresa la universalidad de la aceleración de un cuerpo debido a la interacción gravitacional o, equivalentemente, la igualdad de la masa inercial y la masa gravitacional. Muchos experimentos han sido realizados para testear, cada vez con mayor precisión, esta hipótesis.
 
  El siguiente gráfico resume los resultados de múltiples experimentos modernos que determinan _cotas máximas_ para las aceleraciones relativas de distintos cuerpos sometidos a la acción de la gravedad, junto con el año en que fueron realizados los experimentos. Esta figura fue extraída del artículo de S.G. Turyshev \[1\]:
-  
-![](Pics/EP-tests.png)
+
+<img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/EP-tests.png" width="400">
+
 
 Fig1: Límites a posibles violaciones del PED.
 
 Además, distintos experimentos están siendo planificados y/o desarrollados con la intención de mejorar las cotas superiores de posibles violaciones del PED. La siguiente figura contiene algunas estimaciones de límites esperados de proyectos experimentales futuros (también de la ref. \[1\]):
 
-![](Pics/future-WEP-tests.png)
+<img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/future-WEP-tests.png" width="200">
+
 
 ## **Referencias**
 
@@ -41,6 +43,6 @@ A continuación un par de papers sobre test experimentales del PED. Note que en 
 
 *   [ZARM](http://www.zarm.uni-bremen.de/) (Centro para tecnología espacial aplicada y microgravedad), en Bremen, Alemania. Aquí tienen una torre de aproximadamente 110 m, donde se hacen varios experimentos: entre otros de microgravedad y también tests del principio de equivalencia. [Aquí un video](http://www.zarm.uni-bremen.de/drop-tower.html) sobre la torre y la diversión de tirar cosas dentro de ella.
 
-![](Pics/5935639.jpg)
+<img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/master/images/5935639.jpg" width="400">
 
 *   Experimento MICROSCOPE ([Página oficial, Wikipedia)](https://en.wikipedia.org/wiki/MICROSCOPE). Experimento satelital para testear el PED, lanzado el año 2016, y decomisionado el 2018. Los resultados fueron publicados el año 2017 en la Ref. \[6\], reportando una cota superior para el parámetro de Eötvös de $10^{-15}$.
