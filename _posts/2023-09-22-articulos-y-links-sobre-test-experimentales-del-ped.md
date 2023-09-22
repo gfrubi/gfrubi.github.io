@@ -1,4 +1,9 @@
-# Artículos y links sobre test experimentales del PED 
+---
+title: 'Artículos y links sobre test experimentales del PED'
+date: 2023-09-22
+tags:
+  - RG
+---
 
   El Principio de Equivalencia Débil (PED) expresa la universalidad de la aceleración de un cuerpo debido a la interacción gravitacional o, equivalentemente, la igualdad de la masa inercial y la masa gravitacional. Muchos experimentos han sido realizados para testear, cada vez con mayor precisión, esta hipótesis.
 
