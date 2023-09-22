@@ -25,11 +25,11 @@ A continuación un par de papers sobre test experimentales del PED. Note que en 
 
 ## **Videos/Links**:
 
-*   El famoso video del astronauta del la misión Apollo 15, soltando un martillo y una pluma, en la luna. Original en sitio de la NASA, [aquí](http://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html):
-  ![](https://www.youtube.com/watch?v=5C5_dOEyAfk)
+*   El famoso [video](https://youtu.be/5C5_dOEyAfk) del astronauta del la misión Apollo 15, soltando un martillo y una pluma, en la luna. Original en sitio de la NASA, [aquí](http://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html):
+  ![https://youtu.be/5C5_dOEyAfk](https://youtu.be/5C5_dOEyAfk)
 
 *   Una versión moderna del mismo experimento, realizado en una cámara de vacío (gentileza de [BackStageScience](https://www.youtube.com/channel/UCP16wb-IThCVvM8D-Xx8HXA)). 
-![](https://youtu.be/cjSvxWpbP_o)
+![https://youtu.be/cjSvxWpbP_o](https://youtu.be/cjSvxWpbP_o)
 
 *   Otro video similar, aún más espectacular, por las dimensiones de la cámara de vacío. 
   ![](https://youtu.be/E43-CfukEgs)
