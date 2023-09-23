@@ -4,7 +4,7 @@ collection: teaching
 type: "Pregrado"
 #permalink: /teaching/2021-02-CC
 venue: "UdeC"
-date: 2021-08-11
+date: 2023-08-11
 location: "Concepción, Chile"
 ---
 
