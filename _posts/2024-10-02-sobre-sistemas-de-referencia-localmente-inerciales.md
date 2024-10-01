@@ -20,7 +20,11 @@ Aquí algunos videos y animaciones que ilustran los SRLI's:
 
 -   Propagación de un rayo de luz en un SRI lejos de todo cuerpo masivo 
 
+<img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/refs/heads/master/_posts/Pics/Equivalencia-luz-SRI.gif" width="300">
+
 -   Segunda animación, que muestra un SR en caida libre (el "ascensor"), y cómo la luz se mueve en línea recta con respecto a él (es decir, la situación es equivalente al caso sin gravedad en este SR). Además, se muestra cómo se mueve el rayo de luz c/r al SR "a una distancia fija de la Tierra":
+
+<img src="https://raw.githubusercontent.com/gfrubi/gfrubi.github.io/refs/heads/master/_posts/Pics/Equivalencia-luz-con-gravedad.gif" width="300">
 
 - El video de Veritasium:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XRr1kaXKBsU?si=YiZTfhHYSDtxipWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
