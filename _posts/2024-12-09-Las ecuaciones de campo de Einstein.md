@@ -1,0 +1,4 @@
+- Paper original de Einstein, donde presenta la "versión final" de la teoría General de la Relatividad[Die Grundlage der allgemeinen Relativitätstheorie](https://archive.org/details/sim_annalen-der-physik_1916_49_7)  ("Los Fundamentos de la teoría General de la Relatividad"). *Annalen der Physik*, Band **49** (1916). Traducción al inglés [aquí](https://einsteinpapers.press.princeton.edu/vol6-trans/158).
+- Artículo original de Einstein (1917) donde introduce la *constante cosmológica*. A. Einstein, ["Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie"](https://articles.adsabs.harvard.edu/pdf/1917SPAW.......142E), *Sitzung der physikalisch mathematischen Klasse* (1917) 142. El título se traduciría en algo así como "Consideraciones Cosmológicas sobre la Teoría de la Relatividad".  Note que la constante cosmológica (denotada por $\lambda$) es introducida en la ec. (13a), página 151.
+
+![](attachments/Einstein-ecs-1917.png)
